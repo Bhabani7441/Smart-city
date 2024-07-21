@@ -1,4 +1,4 @@
 # Smart-city
-This is my fiesr project.
+This is my college project.
 <br>
 Author - Bhabani Shankar Behera
